@@ -1,0 +1,35 @@
+.fruits{
+  background-color: aquamarine;
+  margin: 8px;
+  padding: 10px;
+  border: 2px solid black;
+  text-align: center;
+  color: rosybrown;
+}
+.cars{
+  background-color: rgb(red green blue / alpha);
+  margin: 8px;
+  padding: 10px;
+  border: 2px dotted black;
+  text-align: center;
+  color: green;
+}
+.Fruits{
+  background-color: yellowgreen;
+  margin: 8px;
+  padding: 10px;
+  border: 2px solid black;
+  text-align: center;
+  color: blueviolet;
+}
+
+h1{
+  color: darkblue;
+}
+.about{
+  margin: 0 left;
+  padding: 20px;
+  max-width: 600px;
+  text-align: left;
+  background-color: aqua;
+}
